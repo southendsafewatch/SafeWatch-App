@@ -1,0 +1,146 @@
+SafeWatch - Real-Time Safety App
+(Flutter + Firebase)
+
+SafeWatch is a real-time personal safety app built using Flutter and Firebase.
+It includes authentication, live location tracking, SOS alerts, emergency contacts, and a modern glass-style UI.
+
+This project was built from scratch as a full-stack capability showcase.
+
+Features
+Authentication System
+Login, Register, Logout
+
+Auto-login with Firebase Auth persistence
+
+Role selection screen
+
+AuthGate for protected routes
+
+Production-ready routing flow
+
+Navigation System
+Centralised AppRouter
+
+Clean, consistent route structure:
+/auth, /login, /register, /role, /home, /map, /sos, /profile, /alerts
+
+Home Dashboard (Glass UI)
+Modern dashboard layout
+
+Profile header
+
+Quick actions
+
+Safety status card
+
+Recent alerts feed
+
+Large SOS button
+
+Map removed from home for cleaner UX
+
+Real-Time Map System
+Google Maps integration
+
+Live user location
+
+Ready for multi-user tracking
+
+Routing connected
+
+SOS System
+SOS screen UI
+
+SOS alert viewer
+
+Firestore-ready structure
+
+Designed for real-time emergency alerts
+
+Emergency Contacts System
+Firestore structure: /users/{uid}/contacts/{contactId}
+
+Add contact
+
+Edit contact
+
+Delete contact
+
+Contacts list screen
+
+Profile Screen (Glass UI)
+Profile picture
+
+Name + email
+
+Edit profile button
+
+Account section
+
+App section
+
+Support section
+
+Logout
+
+Settings Screen
+General settings
+
+Appearance
+
+Support
+
+Logout
+
+Matches glass UI theme
+
+Firestore Integration
+Live Firestore updates
+
+Secure structure (rules ready)
+
+Temporary dev rules used during build
+
+Tech Stack
+Frontend: Flutter
+Backend: Firebase
+Database: Firestore
+Auth: Firebase Authentication
+Maps: Google Maps API
+State: Provider / setState
+UI: Custom glass-style components
+
+Screenshots
+Screenshots are available in the /screenshots folder.
+
+Demo Video
+YouTube Demo:
+https://youtu.be/9skqevi_WH4
+
+How to Run
+Clone the repo
+
+Run flutter pub get
+
+Add your own Firebase config files
+
+Run flutter run
+
+Why I Built This
+To demonstrate my ability to build real, production-style features quickly using Flutter, Firebase, and AI-assisted development.
+
+This project shows I can:
+
+Learn fast
+
+Build independently
+
+Solve problems
+
+Ship working features
+
+Work across frontend + backend
+
+Developer
+Keiren  
+Self-taught builder using AI-assisted development to create real apps fast.
