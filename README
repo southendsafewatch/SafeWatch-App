@@ -1,10 +1,10 @@
-SafeWatch - Real-Time Safety App
+SafeWatch – Real-Time Safety App
 (Flutter + Firebase)
 
 SafeWatch is a real-time personal safety app built using Flutter and Firebase.
 It includes authentication, live location tracking, SOS alerts, emergency contacts, and a modern glass-style UI.
 
-This project was built from scratch as a full-stack capability showcase.
+This project was built from scratch as a full‑stack capability showcase.
 
 Features
 Authentication System
@@ -110,12 +110,18 @@ Maps: Google Maps API
 State: Provider / setState
 UI: Custom glass-style components
 
+Links to My Work
+GitHub (full project):  
+https://github.com/southendsafewatch/SafeWatch-App
+
+Demo Video:  
+https://youtu.be/9skqevi_WH4
+
+16Personalities Profile:  
+https://www.16personalities.com/profiles/7007552d9c428
+
 Screenshots
 Screenshots are available in the /screenshots folder.
-
-Demo Video
-YouTube Demo:
-https://youtu.be/9skqevi_WH4
 
 How to Run
 Clone the repo
